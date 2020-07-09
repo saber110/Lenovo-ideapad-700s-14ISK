@@ -100,7 +100,7 @@ ChannelB-DIMM0    三星 LPDDR3 1600MHz 2GB
 
 7. 键盘屏幕亮度调节
     - 用系统中的快捷键映射的方法来处理键盘亮度调节：系统偏好设置 --> 键盘 --> 快捷键 --> 显示器
-    ![adjust backlight](./adjust backlight.png)
+    ![adjust backlight](./adjust_backlight.png)
 
 8. 网卡驱动
     - 方法一：修改itlwm里面的plist，把自己的wifi写进去实现联网
