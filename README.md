@@ -111,3 +111,4 @@ ChannelB-DIMM0    三星 LPDDR3 1600MHz 2GB
 
 ## 注意事项
 1. 此电脑不需要打USBInjectAll.kext补丁，打此补丁会睡眠秒醒
+2. 遗憾的是我自己的电脑上一直DSDT有问题，不能成功驱动触摸板，大佬们有驱动成功的烦请issue或者PR
